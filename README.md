@@ -1,8 +1,8 @@
-# [Blog](https://iboughtbed-nf-hw-3.vercel.app/)
+# [Medium](https://iboughtbed-nf-hw-3.vercel.app/)
 
 This is an open source medium-alike app build with everything new in Next.js 14. It is bootstrapped with `create-t3-app`.
 
-[![Blog](./public/og.png)](https://iboughtbed-nf-hw-3.vercel.app/)
+[![Medium](./public/og.png)](https://iboughtbed-nf-hw-3.vercel.app/)
 
 ## Tech Stack
 
